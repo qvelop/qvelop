@@ -9,6 +9,44 @@
 ![C-Programming](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 
+### ❤️ Support My Work
+
+If you find my projects useful, consider supporting their development.
+Every contribution is appreciated!
+
+<details>
+<summary>Ethereum (ETH)</summary>
+
+**Network:** Ethereum Mainnet
+
+```text
+0x7575a7835aE30419e9C8E6D129d103c4afC1aeb2
+```
+
+</details>
+
+<details>
+<summary>Bitcoin (BTC)</summary>
+
+**Network:** Bitcoin Mainnet
+
+```text
+bc1qc7nffaux226dp0m0j9t0j9u983x4ftl39h6hc0
+```
+
+</details>
+
+<details>
+<summary>Monero (XMR)</summary>
+
+**Network:** Monero Mainnet
+
+```text
+47vWiuhUfPB83qUdvnGxK3UyV2ZpqmkUoJmL1S9K8dijbyhH82Wc8DRJbpgyJAwbX5iqRDR1Rgs1gdV4tVxohbQj7ta7Tia
+```
+
+</details>
+
 **Frontend**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
